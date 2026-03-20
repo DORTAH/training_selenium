@@ -10,6 +10,7 @@ from faker import Faker
 import random
 import string
 
+
 from selenium.webdriver.chrome.options import Options
 
 fake = Faker('ru_RU')
